@@ -1,0 +1,8 @@
+main
+naive
+generate-input
+input/*
+main-output/*
+naive-output/*
+
+a.out
